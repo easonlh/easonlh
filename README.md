@@ -2,7 +2,7 @@
 
 > 15 年 HR 数字化产品人 → 正在转型 AI PM | 业余时间折腾 ESP32 IoT
 
-📍 北京 | 📮 easonlh@gmail.com |
+📍 北京 | 📮 easonlh@gmail.com | 💼 [马上消费 - 高级产品管理岗](https://www.zhongan.com/)
 
 ---
 
@@ -25,8 +25,8 @@
 ### 📊 GitHub 数据
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=easonlh&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easonlh&layout=compact&theme=tokyonight&hide_border=true" alt="languages" height="195"/>
+  <img src="https://ghchart.rshah.org/easonlh" alt="contributions chart"/>
+  <img src="https://github-readme-stats-anumber.vercel.app/api?username=easonlh&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="195"/>
 </p>
 
 ### 📬 找我聊
