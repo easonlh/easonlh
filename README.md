@@ -22,6 +22,13 @@
 
 `PeopleSoft` `LLM` `OCR` `Agent` `aPaaS` `C++` `ESP32` `PlatformIO`
 
+### 📊 GitHub 数据
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=easonlh&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easonlh&layout=compact&theme=radical&hide_border=true&v=1" alt="languages" height="195"/>
+</p>
+
 ### 📬 找我聊
 
 - AI + HR / 数字化转型
