@@ -22,12 +22,6 @@
 
 `PeopleSoft` `LLM` `OCR` `Agent` `aPaaS` `C++` `ESP32` `PlatformIO`
 
-### 📊 GitHub 数据
-
-<img src="https://github.com/easonlh/easonlh/blob/main/.github/profile-contributions.svg" alt="contributions" width="100%"/>
-
-<!-- 贡献图由 GitHub Actions 自动更新 -->
-
 ### 📬 找我聊
 
 - AI + HR / 数字化转型
