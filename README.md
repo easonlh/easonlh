@@ -17,7 +17,7 @@
 
 - AI Agent / RAG 在产品中的落地
 - ESP32 嵌入式开发 / IoT
-- 英语 📖（多邻国打卡中）
+- 英语 📖 ![Duolingo](https://img.shields.io/badge/Duolingo-88分-58CC02?logo=duolingo&logoColor=white)
 
 ### 🛠 技术栈
 
