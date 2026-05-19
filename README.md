@@ -17,7 +17,7 @@
 
 | 小程序 | 简介 |
 |---|---|
-| **忆述** | AI 回忆录助手，用 AI 记录和整理你的珍贵回忆 |
+| **忆述 - AI回忆录助手** | AI 回忆录助手，用 AI 记录和整理你的珍贵回忆 |
 | **哪扇门近** | 决策辅助工具，帮你找到离你最近的那扇门 |
 | **闹闹数日子** | 日期倒数 / 纪念日提醒工具，重要日子不再错过 |
 
@@ -25,7 +25,7 @@
 
 - AI Agent / RAG 在产品中的落地
 - ESP32 嵌入式开发 / IoT
-- 英语 📖 ![Duolingo](https://img.shields.io/badge/Duolingo-88分-58CC02?logo=duolingo&logoColor=white)
+- 英语 📖 ![Duolingo](https://img.shields.io/badge/Duolingo-89分-58CC02?logo=duolingo&logoColor=white)
 
 ### 🛠 技术栈
 
