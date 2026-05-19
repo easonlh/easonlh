@@ -43,7 +43,12 @@
 
 | PR | 描述 | 状态 |
 |---|---|---|
+| [#520](https://github.com/larksuite/openclaw-lark/pull/520) | 入站媒体下载流式大小限制，避免超限附件全量缓冲 | 🔄 Open |
+| [#512](https://github.com/larksuite/openclaw-lark/pull/512) | 消息撤回时回复策略配置（silent / top-level fallback） | 🔄 Open |
+| [#508](https://github.com/larksuite/openclaw-lark/pull/508) | 禁用 axios 自动代理读取，修复 HTTP_PROXY 导致 URL 拼接错误 | ✅ Merged |
+| [#505](https://github.com/larksuite/openclaw-lark/pull/505) | Schema 2 卡片回调中 operator.user_id 嵌套格式兼容 | ✅ Merged |
 | [#495](https://github.com/larksuite/openclaw-lark/pull/495) | 空消息早拒绝 + 媒体下载 502 重试 | ✅ Merged |
+| [#448](https://github.com/larksuite/openclaw-lark/pull/448) | ask-user-question 提交按钮 value 字段修复 200340 错误 | ✅ Merged |
 
 </details>
 
