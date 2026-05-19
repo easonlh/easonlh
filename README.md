@@ -31,14 +31,11 @@
 
 `PeopleSoft` `LLM` `OCR` `Agent` `aPaaS` `C++` `ESP32` `PlatformIO`
 
-### 📊 GitHub 数据
+### 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=easonlh&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easonlh&layout=compact&theme=radical&hide_border=true&v=1" alt="languages" height="195"/>
-</p>
+![Stars](https://img.shields.io/github/stars/easonlh?style=flat&color=yellow&logo=github)
 
-<details>
+<details open>
 <summary>📌 openclaw-lark 贡献详情</summary>
 
 | PR | 描述 | 状态 |
