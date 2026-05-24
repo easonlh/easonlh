@@ -8,6 +8,7 @@
 
 ### 🔭 正在做
 
+- **[HR-Agent-DataGraph](https://github.com/easonlh/HR-Agent-DataGraph)** — 中国HRIS标准参考字典与元数据引擎，为HR系统集成和AI Agent自动化提供标准化数据 ![PyPI](https://img.shields.io/pypi/v/hr-agent-datagraph?color=blue&logo=pypi&logoColor=white) ![License](https://img.shields.io/github/license/easonlh/HR-Agent-DataGraph?color=green)
 - **[openclaw-lark](https://github.com/larksuite/openclaw-lark)** — OpenClaw 飞书/Lark 插件贡献者 ![Merged PRs](https://img.shields.io/github/issues-pr-closed-raw/larksuite/openclaw-lark?label=merged+PRs&color=blue) ![Contributions](https://img.shields.io/badge/contributions-4-green)
 - **[NaoNao_OLED](https://github.com/easonlh/NaoNao_OLED)** — ESP32 + OLED 桌面小装置，支持 OpenClaw AI 消息推送、天气、加密币价格、舵机控制
 - **AI+HR 探索** — OCR + LLM 赋能入职审核、人才发展平台（AI-Mentor）
